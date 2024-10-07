@@ -12,6 +12,7 @@ body {
 footer {
     position: absolute;
     bottom: 0;
-    background-color: var(--branco);
+    background-color: var(--preto);
+    color: var(--branco);
 
 }
