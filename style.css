@@ -20,4 +20,5 @@ footer {
 #container{
     padding: 2rem;
     display: flex;
+    gap: 3rem;
 }
