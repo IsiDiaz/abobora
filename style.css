@@ -54,7 +54,7 @@ footer {
     font-size: 1.4vw;
 
 }
-.cartao:hover, .conteudo-cartao {
+.cartao:hover .conteudo-cartao {
     transform: rotateY(180deg);
 
 }
