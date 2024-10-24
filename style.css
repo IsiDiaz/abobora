@@ -50,7 +50,10 @@ footer {
     padding: 2rem;
     font-size: 1.4vw;
 }
-.pergunta-cartao, resposta-cartao {
+.cartao:hover .conteudo-cartao {
+    transform: rotateX('180dg');
+}
+.pergunta-cartao, .resposta-cartao {
     position: absolute;
     height: 100%;
     width: 100%;
