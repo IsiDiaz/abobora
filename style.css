@@ -34,6 +34,8 @@ footer {
     height: 100%;
     color: var(--branco);
     text-align: center;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 
 }
 .conteudo-cartao h3 {
@@ -49,6 +51,7 @@ footer {
     margin-top: 4rem;
     padding: 2rem;
     font-size: 1.4vw;
+
 }
 .cartao:hover .conteudo-cartao {
     transform: rotateY(180deg);
