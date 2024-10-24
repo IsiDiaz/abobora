@@ -34,7 +34,7 @@ footer {
     height: 100%;
     color: var(--branco);
     text-align: center;
-    
+
 }
 .conteudo-cartao h3 {
     position: absolute;
@@ -43,4 +43,5 @@ footer {
     margin: 0.6rem;
     padding: 0.6rem;
     font-size: 1.2vw;
+    border-radius: 0.6rem;
 }
