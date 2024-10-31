@@ -17,6 +17,9 @@ header {
     display: flex;
     justify-content: space-around;
 }
+header a {
+    color: var(--branco);
+}
 footer {
     position: fixed;
     bottom: 0;
